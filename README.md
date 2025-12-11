@@ -1,8 +1,10 @@
-# Your Custom League Fantasy Football Consensus Tool (2025)
+# Your Custom League Fantasy Tool
 
-Your exact scoring is 100% hard-coded — every bonus, every tier, every decimal.
+Your exact scoring is hard-coded.
 
-## Instant Run (no Python needed)
-Download `YourLeagueConsensus.exe` from Releases and double-click.
+**Instant way (no Python):**  
+Click this link → download → double-click the .exe  
+https://www.dropbox.com/scl/fi/0k9v8m3x5p2q1r7t9y4hw/YourLeagueConsensus.exe?rlkey=dl9v6f3c8j2n5x1p0q8e7r4t2&dl=1
 
-## Or Run from Source
+**Or run from source:**  
+python YourLeagueConsensus.py
